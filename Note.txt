@@ -1,0 +1,5 @@
+the project isn't fully implemented.
+
+-Input GUI: there still Some Views unCompleted (as Course Constraints & Creating Instructor, Student Record ...)
+-Output GUI: there still the Conflict Graph Visuialization not implemented
+-Core Algorithm: the Soft Constraints still not handled.
